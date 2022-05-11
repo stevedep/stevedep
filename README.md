@@ -2,7 +2,7 @@
 - 👀 I’m interested in home automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on home automation projects
-- 📫 How to reach me steve.depeijper@gmail.com.
+- 📫 How to reach me http://bi-and-analytics.blogspot.nl/
 
 <!---
 stevedep/stevedep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
