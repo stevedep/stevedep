@@ -2,7 +2,7 @@
 - 👀 I’m interested in home automation, Power BI Custom Visual Development, Power M, DAX
 - 🌱 I’m currently learning Python and Javascript for custom Power BI visual development
 - 💞️ I’m looking to collaborate on home automation projects
-- 📫 How to reach me http://bi-and-analytics.blogspot.nl/
+- 📫 To learn more about my activities please view my [Medium page](https://medium.com/@steve.depeijper) or my [blog](http://bi-and-analytics.blogspot.nl)
 
 <!---
 stevedep/stevedep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
